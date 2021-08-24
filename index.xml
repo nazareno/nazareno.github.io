@@ -45,7 +45,7 @@ Howdy! This is an example blog post that shows several types of HTML content sup
 &lt;p>Vivamus sagittis lacus vel augue rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.&lt;/p>
 &lt;h3 id="code">Code&lt;/h3>
 &lt;p>Cum sociis natoque penatibus et magnis dis &lt;code>code element&lt;/code> montes, nascetur ridiculus mus.&lt;/p>
-&lt;div class="highlight">&lt;pre class="chroma">&lt;code class="language-js" data-lang="js">&lt;span class="c1">// Example can be run directly in your JavaScript console
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-js" data-lang="js">&lt;span class="c1">// Example can be run directly in your JavaScript console
 &lt;/span>&lt;span class="c1">&lt;/span>
 &lt;span class="c1">// Create a function that takes two arguments and returns the sum of those arguments
 &lt;/span>&lt;span class="c1">&lt;/span>&lt;span class="kd">var&lt;/span> &lt;span class="nx">adder&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="k">new&lt;/span> &lt;span class="nb">Function&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="s2">&amp;#34;a&amp;#34;&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="s2">&amp;#34;b&amp;#34;&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="s2">&amp;#34;return a + b&amp;#34;&lt;/span>&lt;span class="p">);&lt;/span>
